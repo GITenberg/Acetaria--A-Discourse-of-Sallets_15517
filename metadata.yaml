@@ -1,0 +1,31 @@
+_repo: Acetaria--A-Discourse-of-Sallets_15517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evelyn, John
+    birthdate: 1620
+    deathdate: 1706
+    gutenberg_agent_id: '6100'
+    url: http://www.gutenberg.org/2009/agents/6100
+    wikipedia: http://en.wikipedia.org/wiki/John_Evelyn
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vegetables -- Early works to 1800'
+- !lcsh 'Salads -- Early works to 1800'
+- !lcsh 'Salad greens -- Early works to 1800'
+- !lcc 'SB'
+- !lcsh 'Herbs -- Early works to 1800'
+title: 'Acetaria: A Discourse of Sallets'
+url: http://www.gutenberg.org/ebooks/15517
